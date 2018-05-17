@@ -1,4 +1,4 @@
-package com.timbrell.george.exercise2;
+package com.timbrell.george.exercise2.Garage;
 
 public class Car extends Vehicle {
     public Car(
@@ -10,6 +10,15 @@ public class Car extends Vehicle {
     ){
         super( name, seats, colour, model, year);
     }
+
+
+    public int getBill(int days){
+
+        int total = 10 * this.getSeats() * days;
+        return total;
+
+    }
+
 
     public static void main(String[] args) {
         Car mercedes = new Car("mercedes" , 5 ,"black", "c-class", 2000);
