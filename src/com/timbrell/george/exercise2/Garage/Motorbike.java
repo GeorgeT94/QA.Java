@@ -4,6 +4,7 @@ public class Motorbike extends Vehicle{
 
     private int CC;
     public Motorbike(
+            int id,
             String name,
             int seats,
             String colour,
@@ -11,7 +12,7 @@ public class Motorbike extends Vehicle{
             int year,
             int CC
     ){
-        super( name, seats, colour, model, year);
+        super(id, name, seats, colour, model, year);
         this.CC = CC;
     }
 

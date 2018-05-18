@@ -1,6 +1,7 @@
 package com.timbrell.george.exercise2.Garage;
 
 public abstract class Vehicle {
+    protected int id;
     protected String name;
     protected int seats;
     protected String colour;
@@ -8,17 +9,23 @@ public abstract class Vehicle {
     protected int year;
 
     public Vehicle(
+            int id,
             String name,
             int seats,
             String colour,
             String model,
             int year
     ) {
+        this.id = id;
         this.name = name;
         this.seats = seats;
         this.colour = colour;
         this.model = model;
         this.year = year;
+    }
+
+    public int getId(){
+        return this.id;
     }
 
     public String getName() {

@@ -2,7 +2,7 @@ package com.timbrell.george.exercise2.BlackJack;
 
 public class Tests {
     public static void twoInts(int int0,int int1){
-        System.out.println("" + int0 + ", " + int1 + " => " +BlackJack.highestNotBust(int0, int1));
+        System.out.println("" + int0 + ", " + int1 + " => " +BlackJack.play(int0, int1));
     }
 
     public static void twoInputsTests(){

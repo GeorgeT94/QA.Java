@@ -2,13 +2,14 @@ package com.timbrell.george.exercise2.Garage;
 
 public class Bus extends Vehicle{
     public Bus(
+            int id,
             String name,
             int seats,
             String colour,
             String model,
             int year
     ){
-        super( name, seats, colour, model, year);
+        super(id, name, seats, colour, model, year);
     }
     private int ticketPrice;
 

@@ -20,9 +20,9 @@ public class PaintCalc {
 
     public static Paint cheapest(ArrayList<Paint> paintList,int area){
         Paint cheapestPaint = null;
-        double maxCost = 0;
+        double maxCost = Integer.MAX_VALUE;
         for(Paint paint: paintList){
-            if(paint.costForArea(area) > maxCost){
+            if(paint.costForArea(area) < maxCost){
                 maxCost = paint.wasteForArea(area);
                 cheapestPaint = paint;
             }

@@ -1,4 +1,4 @@
-package com.timbrell.george.exercise2;
+package com.timbrell.george.exercise2.People;
 
 public class People {
     private String name;
