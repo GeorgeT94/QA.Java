@@ -46,9 +46,9 @@ public class Paint {
 
     }
 
-    public int wasteForArea(int roomArea){
-        int maxCoverage = cansForArea(roomArea) * this.coveragePerCan();
-        int wastage = maxCoverage - roomArea;
+    public double wasteForArea(int roomArea){
+        double maxCoverage = cansForArea(roomArea) * this.coveragePerCan();
+        double wastage = (maxCoverage - roomArea)/getAreaPerLitre();
         //System.out.println("wastage: " + wastage + ", ");
         return wastage;
     }

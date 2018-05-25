@@ -10,6 +10,10 @@ public abstract class LibraryItem {
     private Date date;
     private boolean checkedOut= false;
 
+    LibraryItem(){
+        setUniqueID();
+    }
+
     public int getID() {
         return ID;
     }
@@ -23,7 +27,7 @@ public abstract class LibraryItem {
     }
 
     public String getName() {
-        return name;
+        return this.name;
     }
 
     public void setName(String name) {

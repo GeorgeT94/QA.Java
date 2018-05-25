@@ -10,12 +10,7 @@ public class Book extends Text{
     }
 
     @Override
-    public int getPageCount() {
-        return 0;
-    }
-
-    @Override
-    public int getWordCount() {
-        return 0;
+    public String getName() {
+        return this.getTitle();
     }
 }

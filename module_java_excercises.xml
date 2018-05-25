@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_java_excercises" default="compile.module.java_excercises">
+  <dirname property="module.java_excercises.basedir" file="${ant.file.module_java_excercises}"/>
+  
+  <property name="module.jdk.home.java_excercises" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.java_excercises" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.java_excercises" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.java_excercises" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="java_excercises.output.dir" value="${module.java_excercises.basedir}/out/production/Java_Excercises"/>
+  <property name="java_excercises.testoutput.dir" value="${module.java_excercises.basedir}/out/test/Java_Excercises"/>
+  
+  <path id="java_excercises.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="java_excercises.module.production.classpath">
+    <path refid="${module.jdk.classpath.java_excercises}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0-M5.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0-M2.jar"/>
+    <pathelement location="${idea.home}/lib/hamcrest-core-1.3.jar"/>
+    <pathelement location="${idea.home}/lib/junit-4.12.jar"/>
+  </path>
+  
+  <path id="java_excercises.runtime.production.module.classpath">
+    <pathelement location="${java_excercises.output.dir}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0-M5.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0-M2.jar"/>
+    <pathelement location="${idea.home}/lib/hamcrest-core-1.3.jar"/>
+    <pathelement location="${idea.home}/lib/junit-4.12.jar"/>
+  </path>
+  
+  <path id="java_excercises.module.classpath">
+    <path refid="${module.jdk.classpath.java_excercises}"/>
+    <pathelement location="${java_excercises.output.dir}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0-M5.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0-M2.jar"/>
+    <pathelement location="${idea.home}/lib/hamcrest-core-1.3.jar"/>
+    <pathelement location="${idea.home}/lib/junit-4.12.jar"/>
+  </path>
+  
+  <path id="java_excercises.runtime.module.classpath">
+    <pathelement location="${java_excercises.testoutput.dir}"/>
+    <pathelement location="${java_excercises.output.dir}"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/junit-jupiter-api-5.0.0-M5.jar"/>
+    <pathelement location="${idea.home}/plugins/junit/lib/opentest4j-1.0.0-M2.jar"/>
+    <pathelement location="${idea.home}/lib/hamcrest-core-1.3.jar"/>
+    <pathelement location="${idea.home}/lib/junit-4.12.jar"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.java_excercises">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.java_excercises">
+    <patternset refid="excluded.from.module.java_excercises"/>
+  </patternset>
+  
+  <path id="java_excercises.module.sourcepath">
+    <dirset dir="${module.java_excercises.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.java_excercises" depends="compile.module.java_excercises.production,compile.module.java_excercises.tests" description="Compile module Java_Excercises"/>
+  
+  <target name="compile.module.java_excercises.production" depends="register.custom.compilers" description="Compile module Java_Excercises; production classes">
+    <mkdir dir="${java_excercises.output.dir}"/>
+    <javac2 destdir="${java_excercises.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.java_excercises}/javac">
+      <compilerarg line="${compiler.args.java_excercises}"/>
+      <bootclasspath refid="java_excercises.module.bootclasspath"/>
+      <classpath refid="java_excercises.module.production.classpath"/>
+      <src refid="java_excercises.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.java_excercises"/>
+    </javac2>
+    
+    <copy todir="${java_excercises.output.dir}">
+      <fileset dir="${module.java_excercises.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.java_excercises.tests" depends="register.custom.compilers,compile.module.java_excercises.production" description="compile module Java_Excercises; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.java_excercises" description="cleanup module">
+    <delete dir="${java_excercises.output.dir}"/>
+    <delete dir="${java_excercises.testoutput.dir}"/>
+  </target>
+</project>

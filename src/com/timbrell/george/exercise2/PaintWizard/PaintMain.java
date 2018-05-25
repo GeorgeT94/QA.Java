@@ -8,6 +8,7 @@ public class PaintMain {
         Paint averageJoes = new Paint("AverageJoes", 15,17.99,11);
         Paint duluxourousPaints = new Paint("DuluxourousPaints",10,25,20);
 
+        int area = 321;
 
         PaintStore store = new PaintStore();
 
@@ -15,8 +16,8 @@ public class PaintMain {
         store.addpaint(averageJoes);
         store.addpaint(duluxourousPaints);
 
-        PaintCalc.cheapest(store.getPaintArray(), 2000);
-        PaintCalc.leastWastage(store.getPaintArray(), 1000);
+        PaintCalc.cheapest(store.getPaintArray(), area);
+        PaintCalc.leastWastage(store.getPaintArray(), area);
 
     }
 }

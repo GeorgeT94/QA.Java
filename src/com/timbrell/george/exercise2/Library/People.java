@@ -30,19 +30,8 @@ public class People{
         }
     }
 
-    public void update(Person person,int newAge){
-        Date dOb =  person.getDateOfBirth();
-        String oldName = person.getName();
 
-        int index = getIndex(oldName, dOb);
-
-        if(index != -1) {
-            person.setAge(newAge);
-            people.set(index, person);
-        }
-    }
-
-    public void update(Person person, Date newDate){
+    public void updateDateOfBirth(Person person, Date newDate){
         Date dOb =  person.getDateOfBirth();
         String oldName = person.getName();
 
@@ -53,7 +42,6 @@ public class People{
             people.set(index, person);
         }
     }
-
 
 
     private int getIndex(String name, Date dateOfBirth){

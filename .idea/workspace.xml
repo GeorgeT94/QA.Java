@@ -2,38 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43826498-4edf-42ab-a18a-71253c27bae4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/Test/BlackJackTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Collection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Map.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Newspaper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/People.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Readable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PeopleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PersonTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Text.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Test/TooHotTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/Test/UniqueSumTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_Excercises/com/timbrell/george/exercise2/TooHot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Tests.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/People.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/People/People.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/TooHot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anagramWords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java_excercises.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java_excercises.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libraryList.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module_java_excercises.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/Extra/Coins/Coins.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/Extra/Coins/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/Extra/Coins/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Draw.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/FileIO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/CollectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/ItemTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Hash.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Parser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Sorter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Primes2/Primes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Primes2/Primes2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/String.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/timbrell/george/level3/primes/Primes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_Excercises/com/timbrell/george/exercise2/People.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_Excercises/com/timbrell/george/exercise2/Tests$blackjack$highestNotBust.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_Excercises/com/timbrell/george/exercise2/Tests$blackjack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_Excercises/com/timbrell/george/exercise2/Tests.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/timbrell/george/level3/Primes.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java_Excercises.iml" afterPath="$PROJECT_DIR$/Java_Excercises.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/BlackJack.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/BlackJack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/Tests.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/Tests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Bus.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Bus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Car.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Garage.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Garage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Motorbike.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Motorbike.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Test.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Vehicle.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Vehicle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Book.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Collection.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Collection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryItem.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryMain.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Map.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Map.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Newspaper.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Newspaper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/People.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/People.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Readable.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Readable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PeopleTest.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PeopleTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Text.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Text.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/Paint.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/Paint.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintCalc.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintCalc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/UniqueSum.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/UniqueSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintMain.java" afterPath="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintMain.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,110 +61,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PersonTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PersonTest.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="55" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="15" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PeopleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PeopleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PaintCalc.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintCalc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TooHot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/TooHot.java">
+      <file leaf-file-name="Draw.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Draw.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="663">
+              <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TooHotTests.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Test/TooHotTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="People.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/People/People.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PaintMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintMain.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PaintStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Paint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/Paint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="People.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/People.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,39 +122,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Files/PersonIO.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Files/Parser.java" />
-        <option value="$PROJECT_DIR$/people.txt" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Files/FilesMain.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Files/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/BlackjackMain.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/UniqueSumMain.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/Tests.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Inputs.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/ReverseFactorial.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/ReverseFactorialMain.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Factorial/ReverseFactorialMain.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Dogoo/DogMain.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Dogoo/Places.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/NumberGuessing/Scanner.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/NumberGuessing/myScanner.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/NumberGuessing/NumberGuessing.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/NumberGuessing/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/TestsTest.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/Tests.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/BlackJack.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/Test/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/Test/UniqueSumTest.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/UniqueSum.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/Test/BlackJackTest.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/TooHot.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Main.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Test/TooHotTests.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Library.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryMain.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Readable.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Text.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Book.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Bus.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Car.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Motorbike.java" />
@@ -221,15 +137,42 @@
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Test.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Items.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryList.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryItem.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Collection.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/Test.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/LibraryTests.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/People.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PeopleTest.java" />
-        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintCalc.java" />
         <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/People/People.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/People.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/Paint.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintCalc.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintMain.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PeopleTest.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Readable.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/CollectionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Map.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Text.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Newspaper.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryMain.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryItem.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Book.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/ItemTest.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Collection.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/FileIO.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/words.txt" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Sorter.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Parser.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Hash.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Primes.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/primes/Primes.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Primes2/Primes2.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Primes2/Primes.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/Extra/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/Extra/Coins.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/Extra/Parser.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/Extra/Coins/Parser.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Draw.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/String.java" />
       </list>
     </option>
   </component>
@@ -240,9 +183,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="84" />
-    <option name="y" value="382" />
-    <option name="width" value="1404" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -323,7 +265,6 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -331,11 +272,45 @@
               <item name="Java_Excercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Excercises" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_Excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="george" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="george" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="george" type="462c0819:PsiDirectoryNode" />
+              <item name="level3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="george" type="462c0819:PsiDirectoryNode" />
+              <item name="level3" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,6 +319,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="java_excercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java_excercises.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -351,6 +331,10 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Java_Excercises" />
+      <recent name="C:\Users\Admin\IdeaProjects\Java_Excercises\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -365,15 +349,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PaintMain">
-    <configuration name="PaintMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.timbrell.george.exercise2.PaintWizard.*" />
+          <option name="PATTERN" value="com.timbrell.george.Extra.Rectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.exercise2.PaintWizard.PaintMain" />
+      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.Extra.Rectangle.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -385,89 +369,90 @@
       <module name="Java_Excercises" />
       <envs />
     </configuration>
-    <configuration name="PeopleTest.registerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.timbrell.george.exercise2.Library.Test.*" />
+          <option name="PATTERN" value="com.timbrell.george.level3.Hashmaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Java_Excercises" />
+      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.level3.Hashmaps.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.timbrell.george.exercise2.Library.Test" />
-      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.exercise2.Library.Test.PeopleTest" />
-      <option name="METHOD_NAME" value="registerTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="Java_Excercises" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.timbrell.george.exercise2.Library.Test.*" />
+          <option name="PATTERN" value="com.timbrell.george.Extra.Coins.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Java_Excercises" />
+      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.Extra.Coins.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.timbrell.george.exercise2.Library.Test" />
-      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.exercise2.Library.Test.PersonTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="Java_Excercises" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration name="PersonTest.testPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Primes (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.timbrell.george.exercise2.Library.Test.*" />
+          <option name="PATTERN" value="com.timbrell.george.level3.Primes2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Java_Excercises" />
+      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.level3.Primes2.Primes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.timbrell.george.exercise2.Library.Test" />
-      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.exercise2.Library.Test.PersonTest" />
-      <option name="METHOD_NAME" value="testPerson" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="Java_Excercises" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Primes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.timbrell.george.exercise2.Garage.*" />
+          <option name="PATTERN" value="com.timbrell.george.level3.primes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.exercise2.Garage.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.level3.primes.Primes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_Excercises" />
+      <envs />
+    </configuration>
+    <configuration name="Primes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.timbrell.george.level3.Primes2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.timbrell.george.level3.Primes2.Primes2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -495,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PersonTest.testPerson" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PersonTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PeopleTest.registerTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PaintMain" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Primes" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Primes (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Primes2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PaintMain" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PeopleTest.registerTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PersonTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PersonTest.testPerson" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Primes (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Primes2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +514,11 @@
       <workItem from="1526557813016" duration="17204000" />
       <workItem from="1526630031639" duration="14000" />
       <workItem from="1526630082910" duration="143000" />
-      <workItem from="1526657154114" duration="15000" />
+      <workItem from="1526657154114" duration="252000" />
+      <workItem from="1526907982283" duration="8380000" />
+      <workItem from="1526976579975" duration="27135000" />
+      <workItem from="1527062332608" duration="2028000" />
+      <workItem from="1527235699730" duration="69000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;committed files from tuesday 15th may&quot;">
       <created>1526548464929</created>
@@ -538,63 +527,80 @@
       <option name="project" value="LOCAL" />
       <updated>1526548464929</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;committed files from thursday 17th may&quot;">
+      <created>1526657205418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526657205418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LibraryTests - 2018.05.17 at 17h 16m 25s.xml">
-      <configuration name="LibraryTests" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testCheckIn - 2018.05.21 at 15h 23m 48s.xml">
+      <configuration name="CollectionTest.testCheckIn" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTests_testPerson - 2018.05.17 at 17h 05m 42s.xml">
-      <configuration name="LibraryTests.testPerson" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testCheckOut - 2018.05.21 at 15h 22m 46s.xml">
+      <configuration name="CollectionTest.testCheckOut" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTests_testPerson - 2018.05.17 at 17h 05m 56s.xml">
-      <configuration name="LibraryTests.testPerson" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testGetId - 2018.05.21 at 15h 34m 41s.xml">
+      <configuration name="CollectionTest.testGetId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTests_testPerson - 2018.05.17 at 17h 13m 52s.xml">
-      <configuration name="LibraryTests.testPerson" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testGetId - 2018.05.21 at 15h 37m 11s.xml">
+      <configuration name="CollectionTest.testGetId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTests_testPerson - 2018.05.17 at 17h 14m 15s.xml">
-      <configuration name="LibraryTests.testPerson" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testGetId - 2018.05.21 at 15h 37m 24s.xml">
+      <configuration name="CollectionTest.testGetId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LibraryTests_testPerson - 2018.05.17 at 17h 14m 39s.xml">
-      <configuration name="LibraryTests.testPerson" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testGetIndexBy - 2018.05.21 at 15h 40m 14s.xml">
+      <configuration name="CollectionTest.testGetIndexBy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PeopleTest_registerTest - 2018.05.17 at 17h 40m 38s.xml">
-      <configuration name="PeopleTest.registerTest" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testGetIndexBy - 2018.05.21 at 15h 40m 19s.xml">
+      <configuration name="CollectionTest.testGetIndexBy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PersonTest - 2018.05.17 at 17h 40m 27s.xml">
-      <configuration name="PersonTest" configurationId="JUnit" />
+    <history-entry file="CollectionTest_testUpdateDate - 2018.05.21 at 15h 29m 53s.xml">
+      <configuration name="CollectionTest.testUpdateDate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TooHotTests - 2018.05.17 at 13h 04m 58s.xml">
-      <configuration name="TooHotTests" configurationId="JUnit" />
+    <history-entry file="CollectionTest_updateName - 2018.05.21 at 15h 26m 20s.xml">
+      <configuration name="CollectionTest.updateName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TooHotTests - 2018.05.17 at 13h 46m 36s.xml">
-      <configuration name="TooHotTests" configurationId="JUnit" />
+    <history-entry file="ItemTest_testGetName - 2018.05.21 at 16h 16m 29s.xml">
+      <configuration name="ItemTest.testGetName" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93226000" />
+    <option name="totallyTimeSpent" value="131075000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33043477" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33150384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717392" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33043477" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114072494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118336886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -603,7 +609,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -618,7 +624,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;committed files from tuesday 15th may&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;committed files from tuesday 15th may&quot;" />
+    <MESSAGE value="&quot;committed files from thursday 17th may&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;committed files from thursday 17th may&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -630,243 +637,92 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="true" />
+    <buildFile url="file://$PROJECT_DIR$/java_excercises.xml">
+      <targetFilters>
+        <filter targetName="register.custom.compilers" isVisible="false" />
+        <filter targetName="init" isVisible="true" />
+        <filter targetName="clean" isVisible="true" />
+        <filter targetName="build.modules" isVisible="true" />
+        <filter targetName="all" isVisible="true" />
+        <filter targetName="compile.module.java_excercises" isVisible="true" />
+        <filter targetName="compile.module.java_excercises.production" isVisible="true" />
+        <filter targetName="compile.module.java_excercises.tests" isVisible="true" />
+        <filter targetName="clean.module.java_excercises" isVisible="true" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Dogoo/Places.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Scanner.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Draw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="2122" column="0" lean-forward="false" selection-start-line="2122" selection-start-column="0" selection-end-line="2122" selection-end-column="0" />
+        <state relative-caret-position="663">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Factorial/ReverseFactorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/NumberGuessing/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Factorial/ReverseFactorialMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/Factorial/Inputs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/NumberGuessing/myScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/PairProgramming/NumberGuessing/NumberGuessing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="58" column="5" lean-forward="false" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/TestsTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/Test/UniqueSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/Tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/UniqueSumMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/UniqueSum/UniqueSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Test/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/level3/Hashmaps/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/BlackJack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/Tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/BlackjackMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Item.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/Readable.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Readable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Newspaper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Motorbike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Garage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Text.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Draw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="663">
+          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/LibraryList.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryList.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Garage/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/BlackJack/Test/BlackJackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Readable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/LibraryMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/Extra/Rectangle/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -874,91 +730,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PersonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/level3/Strings/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="55" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="15" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/Paint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Library/Test/PeopleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/PaintWizard/PaintCalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/People/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/Tests.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/TooHot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbrell/george/exercise2/TooHot/Test/TooHotTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding />
         </state>
       </provider>
